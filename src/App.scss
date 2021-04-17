@@ -1,0 +1,22 @@
+
+$fontsize: 14px;
+
+body {
+  font-size: $fontsize;
+}
+
+.box {
+    border: 2px dashed #e2e8f0;
+    color: #000;
+}
+
+.css-15wxsjd[aria-current="page"] {
+    background: var(--chakra-colors-gray-200);
+    color: inherit;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.css-15wxsjd:hover, .css-15wxsjd[data-hover] {
+    text-decoration: none !important;
+}

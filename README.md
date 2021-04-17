@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [Chakra-ui](https://chakra-ui.com/)
+
+## Template Concept
+
+This template basically a clone of below chakra-ui pro template.
+https://pro.chakra-ui.com/components/application-ui/shells/shell-with-three-column
 
 ## Available Scripts
 
